@@ -24,14 +24,9 @@ Demonstrar o uso da AWS Lambda para automatizar o envio de arquivos para um buck
 3. O conteúdo do arquivo inclui a data e hora da criação.
 
 ## Imagens
-### Bucket S3 criado
-![Bucket S3](images/images/create-s3-console.png)
 
-### Função Lambda
-![Função Lambda](images/images/codigo-lambda-console.png)
+![Função Lambda](images/lambda-aws.png)
 
-### Inserindo regras pelo IAM
-![Regras IAM](images/images/polices-iam-s3.png) 
+![Regras IAM](images/permissao-iam.png) 
 
-### Arquivo gerado
-![Arquivo criado](images/images/teste-lambda.png)
+![Bucket S3](images/arquivos3-aws.png)
